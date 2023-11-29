@@ -39,3 +39,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+p {
+    font-family: sans-serif;
+}
+h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
